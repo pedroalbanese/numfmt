@@ -1,4 +1,4 @@
-module github.com/jackc/numfmt
+module github.com/pedroalbanese/numfmt
 
 go 1.15
 
